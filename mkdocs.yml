@@ -1,0 +1,13 @@
+site_name: CMPUT 401 Course Docs
+theme: material
+nav:
+  - "Index": "index.md"
+  - "Course Outline": "course-outline.md"
+  - "Course Policies": "course-policies.md"
+  - "Marking Rubrics": "marking-rubrics.md"
+  - "Project Documentation": "project-documentation.md"
+  - "Final Documentation": "final-documentation.md"
+  - "Screencast": "screencast.md"
+  - "Final Presentation": "final-presentation.md"
+  - "Teaching Team": "teaching-team.md"
+  - "Links": "links.md"
