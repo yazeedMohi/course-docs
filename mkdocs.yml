@@ -1,5 +1,5 @@
 site_name: CMPUT 401 Course Docs
-theme: material
+theme: readthedocs
 nav:
   - "Index": "index.md"
   - "Course Outline": "course-outline.md"
