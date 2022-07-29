@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Marking Rubrics - CMPUT 401 Course Docs</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Marking Rubrics";
+        var mkdocs_page_input_path = "marking-rubrics.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <script src="../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> CMPUT 401 Course Docs
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Index</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../course-outline/">Course Outline</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../course-policies/">Course Policies</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">Marking Rubrics</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#team-project">Team project</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#late-release-submission-policy">Late release submission policy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#sprint-1">Sprint 1</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#project-overview">Project overview</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#user-stories">User stories</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#high-level-software-design">High-level software design</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#low-fidelity-user-interface">Low-fidelity user interface</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#sprint-planning">Sprint planning</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#teamwork">Teamwork</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#formatting">Formatting</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#wildcard">Wildcard</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#sprint-2">Sprint 2</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#revisions">Revisions</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#detailed-design">Detailed design</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#codebase">Codebase</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#testing">Testing</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#sprint-planning_1">Sprint planning</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#teamwork_1">Teamwork</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#wildcard_1">Wildcard</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#sprint-3">Sprint 3</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#ux-ui-design">UX, UI design</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#sprint-planning_2">Sprint planning</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#sprint-4">Sprint 4</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#sprint-planning_3">Sprint planning</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#sprint-5">Sprint 5</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#deployment-environment-and-documentation">Deployment environment and documentation</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#codebase_1">Codebase</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#testing_1">Testing</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#cmput-401-portal">CMPUT 401 Portal</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#screencast">Screencast</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#presentation">Presentation</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#final-assessment-by-client">Final assessment by client</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#individual-work">Individual work</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#assignment">Assignment</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#reflection-forms">Reflection forms</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#participation">Participation</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../project-documentation/">Project Documentation</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../final-documentation/">Final Documentation</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../screencast/">Screencast</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../final-presentation/">Final Presentation</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../teaching-team/">Teaching Team</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../links/">Links</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">CMPUT 401 Course Docs</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" alt="Docs"></a> &raquo;</li><li>Marking Rubrics</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="marking-rubrics">Marking Rubrics</h1>
+<h2 id="team-project">Team project</h2>
+<h3 id="late-release-submission-policy">Late release submission policy</h3>
+<p><em>Applies to all sprints.</em></p>
+<p>If a sprint release is late for less than 24 hours: penalty of 5 marks.</p>
+<p>If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 marks.</p>
+<h3 id="sprint-1">Sprint 1</h3>
+<p>For the first sprint, you will deliver:</p>
+<ul>
+<li><a href="/project-documentation/#project-requirements">Project Requirements document</a> </li>
+<li>An early version of the <a href="/project-documentation/#software-design">Software Design document</a> (focusing on high-level architectural design)</li>
+<li><a href="/project-documentation/#project-management">Project Management document</a></li>
+<li><a href="/project-documentation/#teamwork">Teamwork document</a></li>
+</ul>
+<p>Your documentation must be stored as markdown files in the <code>/docs</code> folder in the <code>main</code> branch of your GitHub repository. Use <a href="https://www.mkdocs.org/getting-started/">mkdocs</a> and <a href="https://www.mkdocs.org/user-guide/deploying-your-docs/">GitHub Pages</a> to deploy the documentation.</p>
+<p>Example: <a href="https://ualberta-cmput401.github.io/example-documentation/">https://ualberta-cmput401.github.io/example-documentation/</a>.</p>
+<p>Besides, you may start implementation.</p>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Project overview</td>
+<td>10</td>
+</tr>
+<tr>
+<td>User stories</td>
+<td>20</td>
+</tr>
+<tr>
+<td>High-level software design</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Low-fidelity user interface</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Sprint planning</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Teamwork</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Formatting</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Wildcard</td>
+<td>5</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="project-overview">Project overview</h4>
+<ul>
+<li>Executive summary is clear, understandable, and concrete</li>
+<li>Glossary is clear and complete</li>
+<li>List of similar products is comprehensive, their functionalities are analyzed, with comments on how they may be used for code or inspiration</li>
+<li>Relevant open source projects are analyzed</li>
+<li>List of useful technical resources is comprehensive</li>
+</ul>
+<h4 id="user-stories">User stories</h4>
+<ul>
+<li>Standard notation is used, numbering is consistent</li>
+<li>Complexity of each user story is estimated using story points</li>
+<li>The set of user stories is complete and relevant, it clearly demonstrates how exactly client requirements will be met</li>
+<li>Each user story is accompanied by viable acceptance tests</li>
+<li>User stories are prioritized using the MoSCoW method for the Minimum Viable Product (MVP) in a feasible way</li>
+</ul>
+<h4 id="high-level-software-design">High-level software design</h4>
+<ul>
+<li>High-level system architecture is clearly defined</li>
+<li>Major data elements are clearly defined (using UML Class diagram, or ER diagram)</li>
+<li>Most important interaction scenarios are clearly defined (using UML Sequence diagrams)</li>
+<li>Detailed list of technologies that will be used in the project is provided</li>
+</ul>
+<h4 id="low-fidelity-user-interface">Low-fidelity user interface</h4>
+<ul>
+<li>Low-fidelity wireframes clearly show the concepts of future functionalities</li>
+<li>Low-fidelity wireframes cover all user stories</li>
+<li>Navigation paths are clearly explained (using UI flow diagrams)</li>
+</ul>
+<h4 id="sprint-planning">Sprint planning</h4>
+<ul>
+<li>Storymap clealy represents the project and includes all five sprints</li>
+<li>Project plan clearly shows the major milestones to be accomplished for all five sprints, including deadlines</li>
+<li>User stories are included in the project plan for Sprints 2 to 5</li>
+<li>Estimated velocity is calculated for Sprints 2 to 5</li>
+<li>Detailed Github Issues for Sprints 1 and 2 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees</li>
+</ul>
+<h4 id="teamwork">Teamwork</h4>
+<ul>
+<li>Meeting minutes exist for all meetings and include all required information</li>
+<li>Team is working well with the client</li>
+<li>Team Canvas provides a clear overview of the team's profile</li>
+<li>Scrum roles are defined for the sprint</li>
+<li>Belbin roles are defined for each team member</li>
+</ul>
+<h4 id="formatting">Formatting</h4>
+<ul>
+<li>All documents are consistently formatted and carefully proofread</li>
+</ul>
+<h4 id="wildcard">Wildcard</h4>
+<ul>
+<li>The wildcard percentage will be assigned to one or multiple items in the rubric (entirely or split between many items) depending on the life-cycle and specifics of each project</li>
+</ul>
+<h3 id="sprint-2">Sprint 2</h3>
+<p>In the second sprint, you will finalize your project documentation. At this stage, your system design should be complete. </p>
+<p>You will make your hands dirty with the code and make significant progress on your codebase and tests. At the end of this sprint, you will have the first working prototype.</p>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revisions</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Detailed design</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Codebase</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Testing</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Sprint planning</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Teamwork</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Wildcard</td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="revisions">Revisions</h4>
+<ul>
+<li>All comments from Sprint 1 have been sufficiently addressed</li>
+</ul>
+<h4 id="detailed-design">Detailed design</h4>
+<ul>
+<li>System architecture is clearly defined</li>
+<li>Data models are clearly defined (using UML Class diagram, or ER diagram)</li>
+<li>Interfaces (APIs, modules, etc.) are well defined and documented</li>
+<li>Design is complete, it fully represents the product, all planned functionalities can be explained/developed based on the design as documented</li>
+</ul>
+<h4 id="codebase">Codebase</h4>
+<ul>
+<li>Sufficient progress has been made (as planned in the previous sprint)</li>
+<li>GitHub repo is well organized, using the best practices</li>
+<li>Code is well structured and organized</li>
+<li>Code is well written and efficient</li>
+<li>Comments consistent is useful</li>
+</ul>
+<h4 id="testing">Testing</h4>
+<ul>
+<li>Tests exist and run for (as many as possible of) the demonstrated functionalities</li>
+</ul>
+<h4 id="sprint-planning_1">Sprint planning</h4>
+<ul>
+<li>Storymap clealy represents the current state of the project</li>
+<li>Project plan is updated to reflect the current state of the project</li>
+<li>Velocity is re-estimated for Sprints 3, 4, and 5</li>
+<li>Sprint 3 tasks are included in the project plan</li>
+<li>Detailed Github Issues for Sprint 3 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees</li>
+</ul>
+<h4 id="teamwork_1">Teamwork</h4>
+<ul>
+<li>Meeting minutes exist for all meetings and include all required information</li>
+<li>All team members attend meetings</li>
+<li>All team members have contributed to the sprint; each team member worked across multiple types of tasks (management, coding, testing, documentation, etc.)</li>
+<li>Team works well with the TA (asks questions/advice, reports progress meaningfully, addresses feedback)</li>
+<li>Team as a whole has made real progress since the last sprint - accomplished what they had planned to</li>
+<li>Scrum roles are defined for the sprint</li>
+</ul>
+<h4 id="wildcard_1">Wildcard</h4>
+<ul>
+<li>The wildcard percentage will be assigned to one or multiple items in the rubric (entirely or split between many items) depending on the life-cycle and specifics of each project</li>
+</ul>
+<h3 id="sprint-3">Sprint 3</h3>
+<p>In this sprint, you will continue working on the codebase and tests. You will also focus on UI and UX design.</p>
+<p>During the last week of this sprint, you will demo your prototype to your classmates (science fair style).</p>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revisions</td>
+<td>10</td>
+</tr>
+<tr>
+<td>UX, UI design</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Codebase</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Testing</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Sprint planning</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Teamwork</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Wildcard</td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Revisions</strong>, <strong>Codebase</strong>, <strong>Testing</strong>, <strong>Teamwork</strong>, and <strong>Wildcard</strong> deliverables are similar to the ones in the previous sprint.</em></p>
+<h4 id="ux-ui-design">UX, UI design</h4>
+<ul>
+<li>Product user interface is consistent</li>
+<li>UX (user experience) is well thought-out and designed for the target audience</li>
+<li>UI design principles and usability heuristics are applied</li>
+<li>Accessibility patterns are used</li>
+</ul>
+<h4 id="sprint-planning_2">Sprint planning</h4>
+<ul>
+<li>Storymap clealy represents the current state of the project</li>
+<li>Project plan is updated to reflect the current state of the project</li>
+<li>Velocity is re-estimated for Sprints 4 and 5</li>
+<li>Sprint 4 tasks are included in the project plan</li>
+<li>Detailed Github Issues for Sprint 4 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees</li>
+</ul>
+<h3 id="sprint-4">Sprint 4</h3>
+<p>In this sprint, you will deliver ~85% of the requirements. The prototype should be functional and usable but may have a few rough edges.</p>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revisions</td>
+<td>10</td>
+</tr>
+<tr>
+<td>UX, UI design</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Codebase</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Testing</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Sprint planning</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Teamwork</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Wildcard</td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Revisions</strong>, <strong>UX, UI design</strong>, <strong>Codebase</strong>, <strong>Testing</strong>, <strong>Teamwork</strong>, and <strong>Wildcard</strong> deliverables are similar to the ones in the previous sprint.</em></p>
+<h4 id="sprint-planning_3">Sprint planning</h4>
+<ul>
+<li>Storymap clealy represents the current state of the project</li>
+<li>Project plan is updated to reflect the current state of the project</li>
+<li>Velocity is re-estimated for Sprint 5</li>
+<li>Sprint 5 tasks are included in the project plan</li>
+<li>Detailed Github Issues for Sprint 5 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees</li>
+</ul>
+<h3 id="sprint-5">Sprint 5</h3>
+<p>During Sprint 5, you will be polishing the existing functionalities and working on user documentation. After this sprint, all requirements of the MVP must be complete. This system must be usable; it must deliver all “must-have” functionalities, and, ideally, it should also deliver some “nice-to-have” features.  </p>
+<p>Additionally, you will deliver the <a href="/final-documentation/">Final Documentation</a> package:</p>
+<ul>
+<li><a href="/final-documentation/#deployment-instructions">Deployment instructions</a></li>
+<li><a href="/final-documentation/#user-manual">User manual</a></li>
+<li><a href="/final-documentation/#job-description">Job description</a> (in case your client wants to hire a developer to support the system you created)</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revisions</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Deployment environment and documentation</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Codebase</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Testing</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Teamwork</td>
+<td>10</td>
+</tr>
+<tr>
+<td>CMPUT 401 Portal</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Wildcard</td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<p><em><strong>Revisions</strong>, <strong>Teamwork</strong>, and <strong>Wildcard</strong> deliverables are similar to the ones in the previous sprints.</em></p>
+<h4 id="deployment-environment-and-documentation">Deployment environment and documentation</h4>
+<ul>
+<li>Deployment documentation is clear and complete; it fully covers backend and frontend</li>
+<li>List of required libraries with installation details is included</li>
+<li>Final prototype is deployed and functional</li>
+<li>Security defaults have been changed, debug and testing credentials are removed</li>
+<li>End-user documentation is available as a manual and as contextual help</li>
+<li>API is comprehensively documented</li>
+<li>Job description provides all the necessary information for the client if they need to hire a developer to maintain the system</li>
+</ul>
+<h4 id="codebase_1">Codebase</h4>
+<ul>
+<li>All "Must" and some Nice-to-have functionalities have been developed</li>
+<li>Github repo is well organized, using the best practices</li>
+<li>Code is well structured and organized</li>
+<li>Code is well written and efficient</li>
+<li>In-line code documentation (comments) is consistent is useful"</li>
+</ul>
+<h4 id="testing_1">Testing</h4>
+<ul>
+<li>All functionalities are sufficiently tested; tests cover whatever is important for the project (back-end logic, user interface, ...)</li>
+<li>At least one online testing tool has been tried and its reports have been analyzed (example: Selenium)</li>
+<li>Manual acceptance tests cover the implemented requirements</li>
+<li>CI/CD covers some of the functionalities</li>
+</ul>
+<h4 id="cmput-401-portal">CMPUT 401 Portal</h4>
+<ul>
+<li>Project name</li>
+<li>Tagline</li>
+<li>Summary</li>
+<li>Source code link (if your client agreed to make the repository public)</li>
+<li>Logo (confirm with the client that it’s okay to use their logo!)</li>
+<li>One selected screenshot</li>
+<li>Relevant tags</li>
+</ul>
+<h3 id="screencast">Screencast</h3>
+<p><em>To be announced later</em></p>
+<h3 id="presentation">Presentation</h3>
+<p><em>To be announced later</em></p>
+<h3 id="final-assessment-by-client">Final assessment by client</h3>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quality of MVP</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Teamwork</td>
+<td>50</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="individual-work">Individual work</h2>
+<h3 id="assignment">Assignment</h3>
+<p><em>Please refer to the assignment description for details.</em></p>
+<h3 id="reflection-forms">Reflection forms</h3>
+<p>Each form is marked as all-or-nothing.</p>
+<table>
+<thead>
+<tr>
+<th>Deliverable</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sprint 1 form</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Sprint 2 form</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Sprint 3 form</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Sprint 4 form</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Sprint 5 form</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Final individual reflection form</td>
+<td>40</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="participation">Participation</h3>
+<p>Participation is marked as follows:</p>
+<ul>
+<li><strong>Failure (0):</strong> Participate in less than 50% of classes and labs;</li>
+<li><strong>Unsatisfactory (2):</strong> Participate in more than or equal to 50% of classes and labs;</li>
+<li><strong>Satisfactory (4):</strong> Participate in more than 60% of classes and labs;</li>
+<li><strong>Good (6):</strong> Participate in more than 70% of classes and labs;</li>
+<li><strong>Excellent (7):</strong> Participate in more than 85% of classes and labs.</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../course-policies/" class="btn btn-neutral float-left" title="Course Policies"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../project-documentation/" class="btn btn-neutral float-right" title="Project Documentation">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../course-policies/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../project-documentation/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
