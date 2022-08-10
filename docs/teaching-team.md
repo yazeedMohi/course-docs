@@ -12,7 +12,12 @@
 
 **Office:** ATH 3-39
 
-**Office hours:** Wednesday, 1:00 pm - 3:00 pm _(email to make an appointment outside office hours)_
+**Office hours:**
+
+* Tuesday, 10:00 am - 11:00 am
+* Wednesday, 11:00 am - 12:00 pm
+
+_(email to make an appointment outside office hours)_
 
 ## Teaching Assistants
 
