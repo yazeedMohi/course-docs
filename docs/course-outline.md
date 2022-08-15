@@ -49,17 +49,17 @@ We will review your contribution and apply individual coefficients twice during 
 
 _The team is marked as a whole, individual coefficients may be applied based on individual contribution._
 
-| Component                                                                  | Weight  |
-| -------------------------------------------------------------------------- | ------- |
-| [Sprint 1](/marking-rubrics/#sprint-1)                                     | 10%     |
-| [Sprint 2](/marking-rubrics/#sprint-2)                                     | 15%     |
-| [Sprint 3](/marking-rubrics/#sprint-3)                                     | 10%     |
-| [Sprint 4](/marking-rubrics/#sprint-4)                                     | 15%     |
-| [Sprint 5](/marking-rubrics/#sprint-5)                                     | 10%     |
-| [Screencast](/marking-rubrics/#screencast)                                 | 3%      |
-| [Presentation](/marking-rubrics/#presentation)                             | 3%      |
-| [Final assessment by client](/marking-rubrics/#final-assessment-by-client) | 4%      |
-| **Total**                                                                  | **70%** |
+| Component                                                                              | Weight  |
+| -------------------------------------------------------------------------------------- | ------- |
+| [Sprint 1](/course-docs/marking-rubrics/#sprint-1)                                     | 10%     |
+| [Sprint 2](/course-docs/marking-rubrics/#sprint-2)                                     | 15%     |
+| [Sprint 3](/course-docs/marking-rubrics/#sprint-3)                                     | 10%     |
+| [Sprint 4](/course-docs/marking-rubrics/#sprint-4)                                     | 15%     |
+| [Sprint 5](/course-docs/marking-rubrics/#sprint-5)                                     | 10%     |
+| [Screencast](/course-docs/marking-rubrics/#screencast)                                 | 3%      |
+| [Presentation](/course-docs/marking-rubrics/#presentation)                             | 3%      |
+| [Final assessment by client](/course-docs/marking-rubrics/#final-assessment-by-client) | 4%      |
+| **Total**                                                                              | **70%** |
 
 ### Individual Work (30% total)
 
@@ -69,13 +69,13 @@ Besides the final exam, your individual work component involves:
 2. Reflection forms (four peer-review forms (one after each Sprint) and a final reflection), due by the end of each Sprint demo day (5) and by the end of the class (1)
 3. In-class participation
 
-| Component                                              | Weight  |
-| ------------------------------------------------------ | ------- |
-| [Assignment](/marking-rubrics/#assignment)             | 5%      |
-| [Reflection forms](/marking-rubrics/#reflection-forms) | 3%      |
-| [Participation](/marking-rubrics/#participation)       | 7%      |
-| Final exam                                             | 15%     |
-| **Total**                                              | **30%** |
+| Component                                                          | Weight  |
+| ------------------------------------------------------------------ | ------- |
+| [Assignment](/course-docs/marking-rubrics/#assignment)             | 5%      |
+| [Reflection forms](/course-docs/marking-rubrics/#reflection-forms) | 3%      |
+| [Participation](/course-docs/marking-rubrics/#participation)       | 7%      |
+| Final exam                                                         | 15%     |
+| **Total**                                                          | **30%** |
 
 ## Participation
 
