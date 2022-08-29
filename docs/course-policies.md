@@ -12,8 +12,12 @@ The teams will be formed according to the following criteria:
 
 1. Personal preferences for projects
 2. Belbin team roles
-3. Skills diversity
-4. Career goals diversity
+3. Career goals diversity
+4. Balance of more and less experienced students
+
+Starting Fall 2022, team formation is automated. The algorithm will form teams based on the criteria above. 
+
+Detailed description of the optimization model: [Forming CMPUT 401 Teams as a Mixed Integer-Linear Program](https://drive.google.com/file/d/15PdJFWhm-hsQNjlELNZM3Pyw0ViZv-Pw/view?usp=sharing) _(developed by Dr. Zachary Friggstad)_.
 
 ### Process
 
