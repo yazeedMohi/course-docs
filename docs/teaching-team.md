@@ -21,7 +21,10 @@ _(email to make an appointment outside office hours)_
 
 ### Jashwanth Reddy Sarikonda
 
-### Mohayemin Islam
+### Mohayemin Islam  
+**Email**: mohayemin@ualberta.ca  
+**Office hours**: email for appointment   
+
 
 ### Pranjal Dilip Naringrekar
 
