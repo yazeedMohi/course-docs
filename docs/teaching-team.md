@@ -18,6 +18,8 @@ _(email to make an appointment outside office hours)_
 ## Teaching Assistants
 
 ### Aaron Skiba
+**Email**: askiba@ualberta.ca  
+**Office hours**: email for appointment
 
 ### Jashwanth Reddy Sarikonda
 
