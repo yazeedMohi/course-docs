@@ -22,6 +22,10 @@ _(email to make an appointment outside office hours)_
 **Office hours**: email for appointment
 
 ### Jashwanth Reddy Sarikonda
+[LinkedIn](https://www.linkedin.com/in/jashwanth-reddy-sarikonda/) - Hit me up on Linkedin!
+
+**Email**: sarikond@ualberta.ca  
+**Office hours**: email for appointment
 
 ### Mohayemin Islam  
 **Email**: mohayemin@ualberta.ca  
