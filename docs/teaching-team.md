@@ -10,8 +10,7 @@
 
 **Office hours (ATH 3-39):** 
 
-* Tuesday, 10:00 am - 11:00 am
-* Wednesday, 11:00 am - 12:00 pm
+* Tuesday, 11:00 am - 1:00 pm
 
 _(email to make an appointment outside office hours)_
 
