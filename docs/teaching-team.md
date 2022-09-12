@@ -34,4 +34,5 @@ _(email to make an appointment outside office hours)_
 ### Pranjal Dilip Naringrekar
 **Email**: naringre@ualberta.ca  
 **Office hours**: email for appointment
+
 [LinkedIn](https://www.linkedin.com/in/pranjal-naringrekar-b73157157/)
