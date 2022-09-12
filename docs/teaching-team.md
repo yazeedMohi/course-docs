@@ -8,7 +8,7 @@
 
 **Email**: ildar@ualberta.ca
 
-**Office hours (ATH 3-39):** 
+**Office hours (ATH 3-39):**
 
 * Tuesday, 11:00 am - 1:00 pm
 
@@ -32,4 +32,6 @@ _(email to make an appointment outside office hours)_
 
 
 ### Pranjal Dilip Naringrekar
-
+**Email**: naringre@ualberta.ca  
+**Office hours**: email for appointment
+[LinkedIn](https://www.linkedin.com/in/pranjal-naringrekar-b73157157/)
