@@ -100,7 +100,7 @@ For **Sprint 1**, you should include the following:
 * Due date
 * Tasks to be completed (include asignees and due dates)
 
-Since you will likely not start implementation in Sprint 1, you don't need to include user stories.
+Most Sprint 1 tasks will not be related to any user story. For example, you will be creating the project documentation, setting up the project repository, setting up the project management tools, etc.
 
 ### Sprint 2
 
