@@ -14,10 +14,10 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 
 For the first sprint, you will deliver:
 
-* [Project Requirements document](/project-documentation/#project-requirements) 
-* An early version of the [Software Design document](/project-documentation/#software-design) (focusing on high-level architectural design)
-* [Project Management document](/project-documentation/#project-management)
-* [Teamwork document](/project-documentation/#teamwork)
+* [Project Requirements document](https://ualberta-cmput401.github.io/course-docs/project-documentation/#project-requirements) 
+* An early version of the [Software Design document](https://ualberta-cmput401.github.io/course-docs/project-documentation/#software-design) (focusing on high-level architectural design)
+* [Project Management document](https://ualberta-cmput401.github.io/course-docs/project-documentation/#project-management)
+* [Teamwork document](https://ualberta-cmput401.github.io/course-docs/project-documentation/#teamwork)
 
 Your documentation must be stored as markdown files in the `/docs` folder in the `main` branch of your GitHub repository. Use [mkdocs](https://www.mkdocs.org/getting-started/) and [GitHub Pages](https://www.mkdocs.org/user-guide/deploying-your-docs/) to deploy the documentation.
 
