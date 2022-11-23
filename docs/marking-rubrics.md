@@ -217,11 +217,11 @@ _**Revisions**, **UX, UI design**, **Codebase**, **Testing**, **Teamwork**, and 
 
 During Sprint 5, you will be polishing the existing functionalities and working on user documentation. After this sprint, all requirements of the MVP must be complete. This system must be usable; it must deliver all “must-have” functionalities, and, ideally, it should also deliver some “nice-to-have” features.  
 
-Additionally, you will deliver the [Final Documentation](/final-documentation/) package:
+Additionally, you will deliver the [Final Documentation](https://ualberta-cmput401.github.io/course-docs/final-documentation/) package:
 
-* [Deployment instructions](/final-documentation/#deployment-instructions)
-* [User manual](/final-documentation/#user-manual)
-* [Job description](/final-documentation/#job-description) (in case your client wants to hire a developer to support the system you created)
+* [Deployment instructions](https://ualberta-cmput401.github.io/course-docs/final-documentation/#deployment-instructions)
+* [User manual](https://ualberta-cmput401.github.io/course-docs/final-documentation/#user-manual)
+* [Job description](https://ualberta-cmput401.github.io/course-docs/final-documentation/#job-description) (in case your client wants to hire a developer to support the system you created)
 
 | Deliverable                              | Marks   |
 | ---------------------------------------- | ------- |
