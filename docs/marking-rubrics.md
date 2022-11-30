@@ -275,11 +275,84 @@ _**Revisions**, **Teamwork**, and **Wildcard** deliverables are similar to the o
 
 ### Screencast
 
-_To be announced later_
+| Deliverable                  | Marks  |
+| ---------------------------- | ------ |
+| Product demo                 | 4      |
+| Organization                 | 4      |
+| Script                       | 4      |
+| Visual appeal and creativity | 4      |
+| Audio quality                | 4      |
+| **Total**                    | **20** |
+
+#### Product demo
+
+* The screencast shows the product in action and demonstrates its main features
+* The main idea of the product is clearly communicated
+
+#### Organization
+
+* The screencast is well organized and easy to follow
+* Timing of the screencast is optimal (not too long, not too short)
+* The level of detail is appropriate
+
+#### Script
+
+* The script is clear and concise
+* There are no spelling or grammar mistakes
+
+#### Visual appeal and creativity
+
+* The screencast is visually appealing and creative
+* The screencast engages the audience
+
+#### Audio quality
+
+* The audio quality is good
+* The voice is clear and easy to understand
 
 ### Presentation
 
-_To be announced later_
+| Deliverable                               | Marks  |
+| ----------------------------------------- | ------ |
+| PechaKucha Slideshow                      | 4      |
+| Project reflection                        | 4      |
+| Organization                              | 4      |
+| Presentation visual appeal and creativity | 4      |
+| Preparation                               | 4      |
+| Delivery                                  | 4      |
+| Teamwork                                  | 4      |
+| **Total**                                 | **32** |
+
+#### PechaKucha Slideshow
+
+* The presentation has 20 slides
+* The slides automatically advance every 20 seconds
+
+#### Project reflection
+
+* The presentation provides insights into the project, its development, and the team’s experience
+
+#### Organization
+
+* The presentation is well organized and easy to follow
+* The material transitions logically from one slide to another
+
+#### Visual appeal and creativity
+
+* The presentation is visually appealing and creative
+* The images are relevant and well chosen
+
+#### Preparation
+
+* The presentation is well rehearsed and the team members are confident
+
+#### Delivery
+
+* The presentation is delivered in a clear and confident manner (pacing, tone, volume, eye contact, etc.)
+
+#### Teamwork
+
+* The presentation is delivered by the whole team
 
 ### Final assessment by client
 
