@@ -321,7 +321,7 @@ _**Revisions**, **Teamwork**, and **Wildcard** deliverables are similar to the o
 | Preparation                               | 4      |
 | Delivery                                  | 4      |
 | Teamwork                                  | 4      |
-| **Total**                                 | **32** |
+| **Total**                                 | **28** |
 
 #### PechaKucha Slideshow
 
