@@ -1,73 +1,54 @@
 # Meeting Minutes Example
 
-> Sep 20, 2022, 11:00 am<br>
-> CSC B-10
+📆 Oct 3, 2022, 9:00 am
 
-## Agenda
+📍 CSC B-10
 
-* Resources
-* Email client
-* Maps
-* Resource message openup
+## Agenda 📋
 
-## Attendees
+- Sprint 2 Deliverables
+- Feedback from Sprint 1
+- Frontend: add a shared css file in lib folder 
 
-Randall, Tabatha, Dennis, Aysha, Mylah, Susan
+## Attendees 👩‍💻 🧑‍💻
 
-## Minutes
+- Yan Li
+- Priya Patel
+- Jacob Johnson
+- Jessica Smith
+- Marie Dupont
+- Carlos Rodriguez
+- Matthew Brown (TA)
+- Rajesh Kumar (Client)
 
-Resources:
+## Minutes 🕑
+### Feedback from Sprint 1: 
 
-* finish category tree draft by today
-* email client to ask for feedback and to let them add/remove/change things
+- User stories:
+ - US 3.03: add description for ‘Import Different Kinds of CSV File’
+ - US 3.02: add description for ‘Import Google Sheets Data’.
+- Move plotly dash and mongodb to Technical Resources in Project Requirement Doc
+- Add user story number in Story map - Project Management Doc
+- Add tabs for meeting minutes doc (by dates), don’t make the page so long 
+- Add tabs for user stories - Project Requirement Doc
+- Need a team name 
 
-Map:
+### Bugs:
 
-* static map
-  * can click to open google maps
-* maybe put a message to let them know they can click the map to go to google maps
-* need to get the distance between user and resource
-  * sort resources by distance from user to prune resources outside a certain distance radius
-* have a “show more” button to show more than 5 resources
+- Bug: MKdocs not working! Showing 404:
+- Bug: Login window doesn’t pop up in google chrome, but works in firefox. 
 
-Email to the client:
+### UI: 
 
-* send current category tree
-  * make clear that a resource can be put under multiple categories
-* need to get a domain name for HTTPS to get location
+- Use libraries in svelte to build nav bar, so we can save some time to implement other functionalities: bulma
 
-Document:
+## Action Items 🧾
 
-* add how to add resources from the back end?
-
-Other:
-
-* if there aren’t other resources in a category:
-  * put error message? “We couldn’t find any resources at this time, you can request to add resources using the “make a request” form”
-* user should see what they wrote, not what we interpreted
-* at end of the tree, say something like “if you’d like to ask me something else, press restart”
-
-## Action Items
-
-### Randall
-
-* finish up the category tree
-* user should see what they wrote, not what was interpreted
-* fix category button wrap
-* remove colour changing buttons in the tutorial
-
-### Tabatha
-
-* email client
-
-### Dennis
-
-* front end testing
-
-### Aysha
-
-* map tasks
-
-### Susan
-
-* help Dennis with front end tests
+| Member  |                                       Tasks                                        |
+| ------- | :--------------------------------------------------------------------------------: |
+| Yan     |               Implement tabs in mkdocs to reduce page length, bulma                |
+| Priya   |                          Fixed bug in login page, logout                           |
+| Jacob   |                   Student data endpoint(s), Finish auth endpoint                   |
+| Jessica | Fix documentation -> done, Figure out the DNS error with the GitHub authentication |
+| Marie   |                          Github analytics api to backend                           |
+| Carlos  |                   Build page for student, Look into plotly dash                    |

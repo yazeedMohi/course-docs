@@ -30,9 +30,7 @@ We will use the following process to form teams:
 
 ### Dates
 
-All forms must be submitted no later than **Friday, Sep 9, 11:59 pm**.
-
-Team rosters will be posted on eClass no later than **Monday, Sep 12**.
+_Please refer to the live schedule (available on eClass)._
 
 ## Dealing with non-cooperative team members policy
 

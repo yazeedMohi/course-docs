@@ -8,31 +8,35 @@
 
 **Email**: ildar@ualberta.ca
 
-**Office hours (ATH 3-39):**
-
-* Tuesday, 11:00 am - 1:00 pm
-
-_(email to make an appointment outside office hours)_
+**Office hours (ATH 3-39):** Wednesday, 1:00 pm - 3:00 pm _(email to make an appointment outside office hours)_
 
 ## Teaching Assistants
 
-### Aaron Skiba
-**Email**: askiba@ualberta.ca  
-**Office hours**: email for appointment
-
-### Jashwanth Reddy Sarikonda
-[LinkedIn](https://www.linkedin.com/in/jashwanth-reddy-sarikonda/) - Hit me up on Linkedin!
-
-**Email**: sarikond@ualberta.ca  
-**Office hours**: email for appointment
-
-### Mohayemin Islam  
-**Email**: mohayemin@ualberta.ca  
-**Office hours**: email for appointment   
-
-
 ### Pranjal Dilip Naringrekar
+
 **Email**: naringre@ualberta.ca  
 **Office hours**: email for appointment
 
 [LinkedIn](https://www.linkedin.com/in/pranjal-naringrekar-b73157157/)
+
+### Shraddha Mukesh Makwana
+
+**Email**: smakwana@ualberta.ca
+
+**Office hours**: email for appointment
+
+### Yazeed Mahmoud
+
+**Email**: yazeed1@ualberta.ca
+
+**Office hours**: email for appointment
+
+### Vivek Malhotra
+
+**Email**: malhotra@ualberta.ca
+
+**Office hours**: email for appointment
+
+
+
+
