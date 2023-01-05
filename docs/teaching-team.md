@@ -22,8 +22,9 @@
 ### Shraddha Mukesh Makwana
 
 **Email**: smakwana@ualberta.ca
-
 **Office hours**: email for appointment
+
+[LinkedIn](https://www.linkedin.com/in/shraddha-makwana/)
 
 ### Yazeed Mahmoud
 
