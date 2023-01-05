@@ -38,6 +38,5 @@
 
 **Office hours**: email for appointment
 
-
-
+[LinkedIn](https://www.linkedin.com/in/vivek-malhotra-598a00198/)
 
