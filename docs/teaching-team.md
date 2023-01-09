@@ -32,6 +32,8 @@
 
 **Office hours**: email for appointment
 
+[LinkedIn](https://www.linkedin.com/in/yazeedsabil/)
+
 ### Vivek Malhotra
 
 **Email**: malhotra@ualberta.ca
